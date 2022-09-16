@@ -6,7 +6,7 @@ Banks are financial institutions that needs customer to strive. It is expensive 
 ## Let's look at the data
 The data is collected from [kaggle](https://www.kaggle.com/datasets/mathchi/churn-for-bank-customers). The dataset consists of 10000 rows and 14 attributes.
 
-![the bank churn dataset](images\df_head.png)
+![the bank churn dataset](images/df_head.png)
 
 The 14 attributes are:
 
@@ -93,6 +93,6 @@ docker build --t churn-prediction:1.0 .
 
 ## Final App
 
-![streamlit app](images\streamlit-app-final.gif)
+![streamlit app](images/streamlit-app-final.gif)
 
 
